@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/samsung.png</file>
+        <file>images/samsung1.jpg</file>
+    </qresource>
+</RCC>
